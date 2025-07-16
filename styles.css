@@ -482,6 +482,13 @@ figure.testimonial .author h5 span {
     }
 }
 
+@media (max-width: 680px) {
+    /* SECTION 2 - SKILLS */
+    .skills-section i {
+        display: none;
+    }
+}
+
 /* ANIMATIONS */
 
 /* INTRO ANIMATION */
